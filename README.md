@@ -14,9 +14,12 @@ Dark | White
 [Download PNG](https://github.com/mibdev/press-kit/raw/master/logos/MiB%20-%20Classic%20Logo.png) | [Download PNG](https://github.com/mibdev/press-kit/raw/master/logos/MiB%20-%20White%20Logo.png)
 [Download SVG](https://github.com/mibdev/press-kit/raw/master/logos/MiB%20-%20Classic%20Logo.svg) | [Download SVG](https://github.com/mibdev/press-kit/raw/master/logos/MiB%20-%20White%20Logo.svg)
 
-## Logotypes
+## Team
 
-NOT AVAILABLE
+Caio Domingues | Bruno Silva | Samuel Schultze
+-------------- | ----------- | ---------------
+[![Profile](https://github.com/BrunoS3D.png?size=200)](https://github.com/BrunoS3D) | [![Profile](https://github.com/caiodomingues.png?size=200)](https://github.com/caiodomingues) | [![Profile](https://github.com/mukaschultze.png?size=200)](https://github.com/mukaschultze)
+caiodss99@gmail.com | bruno3dcontato@gmail.com | samuelschultze@gmail.com
 
 ## Utilities
 
