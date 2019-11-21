@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="2027 -150 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-MiB_-_White_Logo);
+      }
+
+      .cls-2 {
+        fill: #a1a1a1;
+      }
+
+      .cls-3 {
+        fill: #c2c2c2;
+      }
+
+      .cls-4 {
+        fill: #e2e2e2;
+      }
+    </style>
+    <clipPath id="clip-MiB_-_White_Logo">
+      <rect x="2027" y="-150" width="1000" height="1000"/>
+    </clipPath>
+  </defs>
+  <g id="MiB_-_White_Logo" data-name="MiB - White Logo" class="cls-1">
+    <path id="Fix" class="cls-2" d="M1403.164-35.2l9.263,19.382,31.78.855,8.408-20.237,318.064,328.149-320.8,330.6h-48.891l-204.717-328.27Z" transform="translate(1100)"/>
+    <path id="Bottom_Left_Path" data-name="Bottom Left Path" class="cls-3" d="M1200.87,285.977,989.108,623.169l418.163.988Z" transform="translate(1100)"/>
+    <path id="Top_Left_Path" data-name="Top Left Path" class="cls-4" d="M989.075-39.512l416.35-.158-.742,663.827Z" transform="translate(1100)"/>
+    <path id="Mid_Path" data-name="Mid Path" class="cls-3" d="M1404.487-39.67s.843,21.244,22.071,21.244,21.226-21.314,21.226-21.314l-.222,663.578h-43.948Z" transform="translate(1101.008 0.302)"/>
+    <path id="Bottom_Right_Path" data-name="Bottom Right Path" class="cls-3" d="M1446.208,624.058l320.7-335.476a376.818,376.818,0,0,1,40.888,40.64c34.579,40.4,77.2,109.476,48.137,181.719-45.628,113.41-149.06,113.2-149.06,113.2Z" transform="translate(1100)"/>
+    <path id="Top_Right_Path" data-name="Top Right Path" class="cls-4" d="M1448.367-39.313h255.1s163.238,10.258,163.606,169.82c.094,40.689-17.785,70.319-33.621,93.106-17.949,25.827-85.266,88.928-154.326,160.033C1569.882,496.128,1446.99,624.139,1446.99,624.139Z" transform="translate(1100.303)"/>
+  </g>
+</svg>
