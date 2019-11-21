@@ -21,6 +21,21 @@ Bruno Silva | Caio Domingues | Samuel Schultze
 [![Profile](https://github.com/BrunoS3D.png?size=200)](https://github.com/BrunoS3D) | [![Profile](https://github.com/caiodomingues.png?size=200)](https://github.com/caiodomingues) | [![Profile](https://github.com/mukaschultze.png?size=200)](https://github.com/mukaschultze)
 bruno3dcontato@gmail.com | caiodss99@gmail.com | samuelschultze@gmail.com
 
+## About
+
+### pt-BR
+O Made in Brazil Development Group, mais conhecido como MiB Dev, foi criado no final de 2014, na união dos nossos co-fundadores Caio Domingues, Tiago Galdeano e Samuel Schultze.
+
+Nos unimos por uma paixão em comum: jogos. O MiB nasceu como uma desenvolvedora independente de jogos e lançou seu primeiro jogo em 2015, o Sonar, que ficou disponível para Android.
+
+Com a entrada de um novo integrante, Bruno Silva, o MiB fortaleceu ainda mais suas bases de desenvolvimento em jogos, principalmente em Unity. Bruno e Samuel já foram responsáveis por plugins e extensões de grande uso e relevância dentro da comunidade da Unity.
+
+Atualmente, o MiB expande constantemente suas áreas de desenvolvimento, passando tanto no desenvolvimento de web apps a utilitários e jogos, possuindo ainda, conhecimento em outros setores conectados à computação, seja agrícola, industrial, comercial ou residencial.
+
+### en-US
+
+TODO
+
 ## Utilities
 
 NOT AVAILABLE
