@@ -19,7 +19,7 @@ Dark | White
 Caio Domingues | Bruno Silva | Samuel Schultze
 -------------- | ----------- | ---------------
 [![Profile](https://github.com/BrunoS3D.png?size=200)](https://github.com/BrunoS3D) | [![Profile](https://github.com/caiodomingues.png?size=200)](https://github.com/caiodomingues) | [![Profile](https://github.com/mukaschultze.png?size=200)](https://github.com/mukaschultze)
-caiodss99@gmail.com | bruno3dcontato@gmail.com | samuelschultze@gmail.com
+bruno3dcontato@gmail.com | caiodss99@gmail.com | samuelschultze@gmail.com
 
 ## Utilities
 
