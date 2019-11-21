@@ -10,9 +10,9 @@
 
 Dark | White
 ---- | -----
-<img align="center" width="100" height="100" src="./logos/MiB - Classic Logo.png"> | <img align="center" width="100" height="100" src="./logos/MiB - White Logo.png">
-[Download PNG](https://github.com/mibdev/press-kit/raw/master/logos/MiB%20-%20Classic%20Logo.png) | [Download PNG](https://github.com/mibdev/press-kit/raw/master/logos/MiB%20-%20White%20Logo.png)
-[Download SVG](https://github.com/mibdev/press-kit/raw/master/logos/MiB%20-%20Classic%20Logo.svg) | [Download SVG](https://github.com/mibdev/press-kit/raw/master/logos/MiB%20-%20White%20Logo.svg)
+![Logo Dark](./logos/MiB%20-%20Classic%20Logo.png) | ![Logo White](./logos/MiB%20-%20White%20Logo.png)
+[Download PNG](./logos/MiB%20-%20Classic%20Logo.png) | [Download PNG](./logos/MiB%20-%20White%20Logo.png)
+[Download SVG](./logos/MiB%20-%20Classic%20Logo.svg) | [Download SVG](./logos/MiB%20-%20White%20Logo.svg)
 
 ## Team
 
