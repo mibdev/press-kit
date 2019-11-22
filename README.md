@@ -17,7 +17,7 @@ Dark | White
 ## Team
 
 Bruno Silva | Caio Domingues | Samuel Schultze
--------------- | ----------- | ---------------
+----------- | -------------- | ---------------
 [![Profile](https://github.com/BrunoS3D.png?size=200)](https://github.com/BrunoS3D) | [![Profile](https://github.com/caiodomingues.png?size=200)](https://github.com/caiodomingues) | [![Profile](https://github.com/mukaschultze.png?size=200)](https://github.com/mukaschultze)
 bruno3dcontato@gmail.com | caiodss99@gmail.com | samuelschultze@gmail.com
 
@@ -33,9 +33,7 @@ Com a entrada de um novo integrante, Bruno Silva, o MiB fortaleceu ainda mais su
 Atualmente, o MiB expande constantemente suas áreas de desenvolvimento, passando tanto no desenvolvimento de web apps a utilitários e jogos, possuindo ainda, conhecimento em outros setores conectados à computação, seja agrícola, industrial, comercial ou residencial.
 
 ### en-US
-
 TODO
 
 ## Utilities
-
 NOT AVAILABLE
