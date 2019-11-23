@@ -33,7 +33,13 @@ Com a entrada de um novo integrante, Bruno Silva, o MiB fortaleceu ainda mais su
 Atualmente, o MiB expande constantemente suas áreas de desenvolvimento, passando tanto no desenvolvimento de web apps a utilitários e jogos, possuindo ainda, conhecimento em outros setores conectados à computação, seja agrícola, industrial, comercial ou residencial.
 
 ### en-US
-TODO
+Made in Brazil Development Group, better known as MiB Dev, was created at the end of 2014, by our co-founders Caio Domingues, Tiago Galdeano and Samuel Schultze.
+
+We unite for a common passion: games. MiB was born as an independent game developer and released its first game in 2015, Sonar, which became available for Android.
+
+With the addiction of a new member, Bruno Silva, MiB has further strengthened its game development base, particularly in Unity. Bruno and Samuel have already been responsible for plugins and extensions of great use and relevance within the Unity community.
+
+Currently, MiB is constantly expanding its development areas, moving from developing web apps to utilities and games, as well as having knowledge in other sectors connected to computing, whether agricultural, industrial, commercial or residential.
 
 ## Utilities
 NOT AVAILABLE
