@@ -3,7 +3,7 @@
 ## Useful links
 
 - Website: [mibdev.github.io](https://mibdev.github.io/?utm_source=github&utm_medium=press-kit&utm_campaign=press-kit)
-- Email: TODO ADD
+- Email: TODO ADD - Contact us by the Website for now
 - [Discord server](https://discord.gg/m3q75kU)
 
 ## Logos
