@@ -16,10 +16,10 @@ Dark | White
 
 ## Team
 
-Bruno Silva | Caio Domingues | Samuel Schultze
------------ | -------------- | ---------------
-[![Profile](https://github.com/BrunoS3D.png?size=200)](https://github.com/BrunoS3D) | [![Profile](https://github.com/caiodomingues.png?size=200)](https://github.com/caiodomingues) | [![Profile](https://github.com/mukaschultze.png?size=200)](https://github.com/mukaschultze)
-bruno3dcontato@gmail.com | caiodss99@gmail.com | samuelschultze@gmail.com
+Bruno Silva | Caio Domingues | Samuel Schultze | Gabriel de Jesus
+----------- | -------------- | --------------- | ----------------
+[![Profile](https://github.com/BrunoS3D.png?size=200)](https://github.com/BrunoS3D) | [![Profile](https://github.com/caiodomingues.png?size=200)](https://github.com/caiodomingues) | [![Profile](https://github.com/mukaschultze.png?size=200)](https://github.com/mukaschultze) | [![Profile](https://github.com/gabrieldejesus.png?size=200)](https://github.com/gabrieldejesus)
+bruno3dcontato@gmail.com | caiodss99@gmail.com | samuelschultze@gmail.com | hey@gabrieldejesus.dev
 
 ## About
 
